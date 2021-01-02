@@ -1,0 +1,29 @@
+libFDK/src/FDK_core.lo: libFDK/src/FDK_core.cpp libFDK/include/FDK_core.h \
+  libSYS/include/FDK_audio.h libSYS/include/machine_type.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/assert.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/sys/cdefs.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/versioning.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/api-level.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  /opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/ndk-version.h \
+  libSYS/include/genericStds.h
+
+libFDK/include/FDK_core.h:
+
+libSYS/include/FDK_audio.h:
+
+libSYS/include/machine_type.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/assert.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/versioning.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/api-level.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h:
+
+/opt/android-ndk-r21d/toolchains/llvm/prebuilt/linux-aarch64/bin/../sysroot/usr/include/android/ndk-version.h:
+
+libSYS/include/genericStds.h:
